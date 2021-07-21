@@ -71,7 +71,7 @@ header h3{
     background-size: cover;
     position: absolute;
     left: 50%;
-    top: 60%;
+    top: 50%;
     transform: translate(-50%, -50%);
     perspective: 1000px;
     box-shadow: 5px 5px 5px rgba(0,0,0,.3)
@@ -247,6 +247,6 @@ footer {
         font-size: 10px;
     }
     .container{
-        top: 60%;
+        top: 65%;
     }
   }
