@@ -7,6 +7,6 @@ var a=prompt("Masukin Nama Sayang");
   	else
   	{
   		alert("invalid details");
-  		window.location.href="index.html";
+  		window.location.href="start.html";
   	}
   	
