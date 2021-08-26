@@ -1,6 +1,6 @@
 var a=prompt("Masukin Nama Anda sesuai KTP wkwk");
  var b=prompt("Masukin Tanggal Lahir dengan format dd/mm/yyyy");
-  	if(a== "Nina Wulandari" && b=="13-07-2002")
+  	if(a== "Diah Ayu Anggraeni" && b=="26-08-2002")
   	{
   	    window.location.href="start.html";
   	}
