@@ -1,6 +1,6 @@
 var a=prompt("Masukin Nama Anda sesuai KTP");
  var b=prompt("Masukin Tanggal Lahir dengan format dd/mm/yyyy");
-  	if(a== "Syifa Syahru Ramadani" && b=="18/12/2000")
+  	if(a== "Dwi Anjani Fitria Hening" && b=="20/12/2001")
   	{
   	    window.location.href="start.html";
   	}
