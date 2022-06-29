@@ -1,6 +1,6 @@
 var a=prompt("Masukin Nama Anda sesuai KTP");
  var b=prompt("Masukin Tanggal Lahir dengan format dd/mm/yyyy");
-  	if(a== "Hilena" && b=="29/06/2002")
+  	if(a== "Hilena Yuniar" && b=="29/06/2002")
   	{
   	    window.location.href="start.html";
   	}
